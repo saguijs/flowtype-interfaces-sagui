@@ -1,5 +1,7 @@
 # flowtype-interfaces-sagui
 
+# This package is deprecated. As of v7.0.0-rc.1, Sagui itself contains the flowtype interface for Jasmine
+
 Flowtype interface declarations for the built-in [Sagui](https://github.com/saguijs/sagui) test utilities.
 
 ## Why
